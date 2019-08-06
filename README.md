@@ -2,13 +2,13 @@
 
 This is the code repository for the tutorial [Create a multilingual Single Page Application with Vue](http://www.picssel.com/create-a-multilingual-spa-with-vue/).  The tutorial will show you how to create a single page application with internationalization support, using Vue and the Vue-I18n internationalization plugin.
 
-###Tutorial goals
+### Tutorial goals
 - Create an internationalized application that supports different languages.
 - Ability to switch from one language to another within any page of the application.
 - Ability to add new supported languages with a minimum impact on the application code.
 - Allow translators and/or contributors to manage the language files, separated from the application base code.
 
-###Demo page
+### Demo page
 http://www.picssel.com/demos/vue-multilingual/
 
 ## Project setup
@@ -27,17 +27,17 @@ npm install vue-router --save
 npm install vue-i18n --save
 ```
 
-###Install additional libraries
+### Install additional libraries
 ```
 npm install -D less less-loader
 ```
 
-###Run the project in `localhost:3400`
+### Run the project in `localhost:3400`
 ```
 npm run serve
 ```
 
-##References
+### References
 [Vue Configuration](https://cli.vuejs.org/config/).
 [Vuex: State Management library](https://vuex.vuejs.org/)
 [Vue-i18n plugin documentation](https://kazupon.github.io/vue-i18n/)
