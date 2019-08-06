@@ -38,9 +38,9 @@ npm run serve
 ```
 
 ### References
-[Vue Configuration](https://cli.vuejs.org/config/).
-[Vuex: State Management library](https://vuex.vuejs.org/)
-[Vue-i18n plugin documentation](https://kazupon.github.io/vue-i18n/)
-[Internationalization reference](https://www.w3.org/International/questions/qa-i18n)
-[PO Editor](https://poeditor.com)
-[Source content for this project (c)](http://www.jerometranslations.com/)
+- [Vue Configuration](https://cli.vuejs.org/config/).
+- [Vuex: State Management library](https://vuex.vuejs.org/)
+- [Vue-i18n plugin documentation](https://kazupon.github.io/vue-i18n/)
+- [Internationalization reference](https://www.w3.org/International/questions/qa-i18n)
+- [PO Editor](https://poeditor.com)
+- [Source content for this project (c)](http://www.jerometranslations.com/)
