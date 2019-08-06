@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body * {
+    box-sizing: content-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    font-size: 16px;
+    min-width: 24rem;
+}
+
+.link {
+    color: #E9901C;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.view {
+    padding: 1rem 0 5.625rem;
+}
+
+.container {
+    width: 100%;
+    max-width: 50rem;
+    margin: 0 auto;
+
+    @media (max-width: 50rem) {
+        width: 95%;
+        font-size: 0.875rem;
+    }
+}

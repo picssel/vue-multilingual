@@ -1,0 +1,100 @@
+{
+    "companyName": "Jerome Translations",
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "footer": {
+        "copyRight": "Copyright © 2012 - {dateYear} @:(companyName). All rights reserved"
+    },
+    "home": {
+        "heading2": "Knowledgeable and competent.  We turn linguistic barriers into bridges for cooperation",
+        "sections": {
+            "section1": {
+                "heading3": "About Jerome Translations",
+                "paragraphs": {
+                    "p1": "Jerome Translations is a globally oriented translation service provider catering to the needs of business and institutional clients around the world."
+                },
+                "link": "{aboutURL}",
+                "linkText": "Learn more about Jerome"
+            },
+            "section2": {
+                "heading3": "Our Translation Process",
+                "paragraphs": {
+                    "p1": "All translations are taken based on a quotation process, during which the price and deadline are established."
+                },
+                "link": "{servicesURL}",
+                "linkText": "Learn more about our translation process"
+            },
+            "section3": {
+                "heading3": "Community Partnerships",
+                "paragraphs": {
+                    "p1": "Jerome partners with a variety of organizations to deliver a continually improving level of translation services."
+                },
+                "link": "{contactURL}",
+                "linkText": "Our community"
+            }
+        }
+    },
+    "about": {
+        "heading2": "About Jerome Translations.",
+        "sections": {
+            "section1": {
+                "heading3": "Our Company",
+                "paragraphs": {
+                    "p1": "Jerome Translations is a globally oriented translation service provider catering to the needs of business and institutional clients around the world.",
+                    "p2": "The clients we serve are those operating in English, French and other European languages.",
+                    "p3": "The Jerome team has experience in many sectors of the business world, and will translate your message to a discerning audience in a way that reflects your unique capabilities, qualifications and concerns."
+                }
+            },
+            "section2": {
+                "heading3": "Mission Statement",
+                "paragraphs": {
+                    "p1": "To deliver high-quality, professional translation services to business and institutional clients in Canada and worldwide."
+                }
+            },
+            "section3": {
+                "heading3": "What Makes Us Different",
+                "paragraphs": {
+                    "p1": "The founder of Jerome Translations holds an MBA from McGill University and garnered a wide range of industry experience in Ontario and B.C. prior to starting work as a translator.",
+                    "p2": "The work our company produces, whether it be translation or copyediting, is backed up by hands-on experience within multiple industries. These industries include: management consulting, information systems, financial services, transportation, logistics, telecommunications, consumer product marketing, agricultural products, utilities, education and public relations. This allows us to avoid the pitfalls of general translation and deliver a text that is useful and appropriate for specialized audiences."
+                }
+            }
+        }
+    },
+    "services": {
+        "heading2": "Our Professional Services",
+        "sections": {
+            "section1": {
+                "heading3": "Translation, revision/proofreading, copywriting and localization",
+                "paragraphs": {
+                    "p1": "We offer a range of services but specialize in translating to and from English.  Regional language variations that we support include: US English, Canadian English and UK English.  When translating French, we are able to translate French from France, Canadian French and Swiss French.  Other regional dialects vary depending on the availability of translators.  Simply send us a message to find out whether your language combination is one that we currently support."
+                }
+            },
+            "section2": {
+                "heading3": "Process",
+                "paragraphs": {
+                    "p1": "All translations are taken based on a quotation process, during which the price, deadline and payment currency are established.",
+                    "p2": "If the client has industry-specific terminology available in the form of a glossary or reference documents, this is to be shown to Jerome Translations before the quote is finalized, as this will affect the labour involved with the translation.  Translation is performed using a variety of tools.  The software that we use most is SDL Trados. We also use other CAT tools from time to time."
+                }
+            },
+            "section3": {
+                "heading3": "Quality Control",
+                "paragraphs": {
+                    "p1": "All documents are reviewed by a certified translator prior to final delivery to the client.  A quality assurance checklist is used to ensure that the target text is complete, accurate and free from misinterpretations of the source text and that appropriate terminology has been used throughout.",
+                    "p2": "All translators working for Jerome Translations translate into their mother tongue and within their area of industry specialization.  This ensures that every translation is both accurate and completely natural.  We also maintain databases of terminology used by repeat clients to ensure consistency within each document and from project to project."
+                }
+            }
+        }
+    },
+    "contact": {
+        "heading2": "Contact us",
+        "questions": "Got questions?  Send us a message",
+        "tollFree": "Toll-free number in North America:",
+        "international": "Callers outside North America",
+        "email": "Email us:",
+        "download": "Download our brochure"
+    }
+}

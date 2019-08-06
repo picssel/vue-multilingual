@@ -1,0 +1,100 @@
+{
+    "companyName": "Traductions Jérôme",
+    "navigation": {
+        "home": "Accueil",
+        "about": "À propos",
+        "services": "Services",
+        "contact": "Nous contacter"
+    },
+    "footer": {
+        "copyRight": "Copyright © 2012 - {dateYear} @:(companyName). Tous droits réservés."
+    },
+    "home": {
+        "heading2": "Nous aidons nos clients à surmonter les barrières linguistiques pour avoir accès à de nouvelles clientèles.",
+        "sections": {
+            "section1": {
+                "heading3": "À propos de Traductions Jérôme",
+                "paragraphs": {
+                    "p1": "Traductions Jérôme est une entreprise de traduction sans frontières qui répond aux besoins d'autres entreprises et d'institutions implantées partout dans le monde."
+                },
+                "link": "{aboutURL}",
+                "linkText": "En savoir plus sur Jérôme"
+            },
+            "section2": {
+                "heading3": "Processus de traduction",
+                "paragraphs": {
+                    "p1": "Tout service de traduction proposé par Traductions Jérôme commence par un devis visant à déterminer le prix et le délai de livraison du produit."
+                },
+                "link": "{servicesURL}",
+                "linkText": "En savoir plus sur notre processus de traduction"
+            },
+            "section3": {
+                "heading3": "Organisations partenaires",
+                "paragraphs": {
+                    "p1": "Traductions Jérôme collabore avec des organisations de toutes sortes afin de fournir des services de traduction sans cesse meilleurs."
+                },
+                "link": "{contactURL}",
+                "linkText": "Nos partenaires"
+            }
+        }
+    },
+    "about": {
+        "heading2": "À propos de Traductions Jérôme",
+        "sections": {
+            "section1": {
+                "heading3": "Notre entreprise",
+                "paragraphs": {
+                    "p1": "Traductions Jérôme est une entreprise de traduction sans frontières qui répond aux besoins d'autres entreprises et institutions implantées partout dans le monde.",
+                    "p2": "Nos clients communiquent en anglais, en français, ainsi qu'en d’autres langues européennes.",
+                    "p3": "L'équipe de Traductions Jérôme a une expérience considérable dans divers domaines du monde professionnel, et saura traduire votre message sous une forme qui met en évidence vos qualifications et vos intérêts particuliers."
+                }
+            },
+            "section2": {
+                "heading3": "Énoncé de mission",
+                "paragraphs": {
+                    "p1": "Fournir des services de traduction professionnels d'excellente qualité à des entreprises et à des institutions du Canada et du monde entier."
+                }
+            },
+            "section3": {
+                "heading3": "Ce qui nous rend unique",
+                "paragraphs": {
+                    "p1": "Avant de se lancer dans la traduction, la fondatrice de Traductions Jérôme a étudié à l'université McGill, où elle a obtenu une maîtrise en gestion des affaires (M.B.A.). Par la suite, elle a amassé dix ans d'expérience en gestion d'affaires commerciales en Ontario et en Colombie-Britannique.",
+                    "p2": "Qu'il s'agisse de traduction ou de révision, le travail réalisé par notre entreprise repose sur une expérience pratique dans de nombreux domaines d'activité, à savoir : la consultation en gestion, les systèmes informatiques, les services financiers, les transports, la logistique, les télécommunications, la commercialisation de produits de consommation, les produits agricoles, les services publics, l'éducation et les relations publiques. Nous pouvons ainsi rédiger des textes efficaces et adaptés à des publics spécialisés, tout en évitant de tomber dans les pièges de la traduction générale."
+                }
+            }
+        }
+    },
+    "services": {
+        "heading2": "Nos services professionnels",
+        "sections": {
+            "section1": {
+                "heading3": "Services de traduction, de révision/relecture, de rédaction et de localisation",
+                "paragraphs": {
+                    "p1": "Nous proposons un grand nombre de services de traduction à partir de l'anglais, et vers l'anglais. Les variantes régionales que nous proposons comprennent l'anglais américain, l'anglais canadien et l'anglais britannique. Pour les traductions à partir du français, nous sommes en mesure de traduire à partir du français européen ou du français canadien. La traduction à partir ou vers d'autres dialectes régionaux dépend de la disponibilité des traducteurs. Si vous voulez savoir si la combinaison linguistique que vous recherchez fait partie des langues que nous proposons actuellement, n'hésitez pas à nous envoyer un message."
+                }
+            },
+            "section2": {
+                "heading3": "Processus de traduction",
+                "paragraphs": {
+                    "p1": "Tout service de traduction proposé par Traductions Jérôme commence par un devis visant à déterminer le prix et le délai de livraison du produit.",
+                    "p2": "Dans le cas où le client disposerait d'une banque terminologique spécifique sous forme de glossaire ou de documents de référence, il est nécessaire de la faire parvenir à Traductions Jérôme avant que le devis ne soit finalisé, car cela peut avoir une incidence sur le travail de traduction. Nous effectuons nos traductions à l'aide d'un ensemble d'outils. Nous utilisons principalement le logiciel de traduction MemoQ. Nous nous servons également d'autres logiciels de TAO."
+                }
+            },
+            "section3": {
+                "heading3": "Contrôle de qualité",
+                "paragraphs": {
+                    "p1": "Tous les documents sont relus par un traducteur agréé expérimenté avant que la copie finale ne soit envoyée au client. Nous utilisons systématiquement une liste de contrôle d'assurance de la qualité afin d'être sûrs que le texte d'arrivée est complet et fidèle, qu'il ne comporte aucune interprétation erronée du texte de départ, et qu'une terminologie adéquate a été employée.",
+                    "p2": "Chaque traducteur travaillant pour Traductions Jérôme traduit vers sa langue maternelle et dans son domaine de spécialisation afin de garantir que chaque traduction est à la fois exacte et adaptée à un public cible. Nous maintenons constamment à jour des bases de données terminologiques utilisées par nos clients réguliers afin de garantir l'uniformité au sein de chaque document et pour chaque projet."
+                }
+            }
+        }
+    },
+    "contact": {
+        "heading2": "Nous contacter",
+        "questions": "Des questions?   Envoyez-nous un message",
+        "tollFree": "Sans frais en Amérique du Nord:",
+        "international": "Pour les autres:",
+        "email": "Par courriel:",
+        "download": "Téléchargez notre brochure"
+    }
+}
