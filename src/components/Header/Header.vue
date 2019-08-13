@@ -10,8 +10,8 @@
 
 <script>
     import "./header.less";
-    import Navigation from "../Navigation/Navigation.vue";
-    import LangSelector from "../LangSelector/LangSelector.vue";
+    import Navigation from "@navigation/Navigation.vue";
+    import LangSelector from "@langSelector/LangSelector.vue";
 
     export default {
         name: 'Header',

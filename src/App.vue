@@ -9,8 +9,8 @@
 <script>
     import "./styles.less";
     import "./pages.less";
-    import Header from "./components/Header/Header.vue";
-    import Footer from "./components/Footer/Footer.vue";
+    import Header from "@header/Header.vue";
+    import Footer from "@footer/Footer.vue";
 
     export default {
         name: 'app',
@@ -31,7 +31,7 @@
                 this.defaultLanguage;
 
             this.$i18n.locale = lang;
-            this.$i18n.setLocaleMessage(lang, require(`./assets/lang/${lang}.json`));
+            this.$i18n.setLocaleMessage(lang, require(`@languages/${lang}.json`));
         }
     }
 </script>

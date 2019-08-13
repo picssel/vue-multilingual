@@ -1,7 +1,7 @@
 <template>
     <div class="langSelector">
-        <img src="../../assets/img/globe16.png"
-             srcset="../../assets/img/globe16.png"
+        <img src="@/assets/img/globe16.png"
+             srcset="@/assets/img/globe16.png"
              alt="language selector icon"
              class="langSelector__img" />
         <a v-for="(lang, index) in supportedLanguages"
@@ -13,7 +13,7 @@
 
 <script>
     import "./langSelector.less";
-    import { languages } from "../../i18n.js";
+    import { languages } from "@/i18n.js";
 
     export default {
         name: 'LangSelector',
@@ -33,14 +33,14 @@
 
                 this.activeLanguage = langSelected; // update CSS class in selector
                 this.$i18n.locale = langSelected;
-                this.$i18n.setLocaleMessage(langSelected, require(`../../assets/lang/${langSelected}.json`));
+                this.$i18n.setLocaleMessage(langSelected, require(`@languages/${langSelected}.json`));
                 // persist selected language
                 localStorage.setItem("lang", langSelected);
             },
             isLanguageAvailable: function (lang) {
                 let isAvailable = true;
                 try {
-                    require.resolve(`../../assets/lang/${lang}.json`)
+                    require.resolve(`@languages/${lang}.json`)
                 } catch (error) {
                     isAvailable = false;
                 }
