@@ -1,6 +1,6 @@
 ## IMPORTANT
 
-This site is no lognger mantained, but kept for historical and informational reasons.
+This repo is no longer maintained but is kept for historical and informational reasons.
 
 
 # vue-multilingual
