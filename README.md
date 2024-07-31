@@ -1,6 +1,11 @@
+## IMPORTANT
+
+This site is no lognger mantained, but kept for historical and informational reasons.
+
+
 # vue-multilingual
 
-This is the code repository for the tutorial [Create a multilingual Single Page Application with Vue](http://www.picssel.com/create-a-multilingual-spa-with-vue/).  The tutorial will show you how to create a single page application with internationalization support, using Vue and the Vue-I18n internationalization plugin.
+This is the code repository for the tutorial [Create a multilingual Single Page Application with Vue](http://www.picssel.com/archives/Creating a multilingual Single Page Application with Vue – picssel.pdf).  The tutorial will show you how to create a single page application with internationalization support, using Vue and the Vue-I18n internationalization plugin.
 
 ### Tutorial goals
 - Create an internationalized application that supports different languages.
